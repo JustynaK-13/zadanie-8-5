@@ -1,9 +1,13 @@
 body {background : grey;}
 
-.container {
-  background : pink;
-  height: 300px;
-  width: 500px;
+.container 
+{background-image: url("https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1511873611000/photosp/50cb56ed-05a9-4283-9155-0cf3a8b5047d/stock-photo-nature-nobody-wildlife-cloud-sky-mid-air-flying-spread-wings-bird-50cb56ed-05a9-4283-9155-0cf3a8b5047d.jpg");
+  height: 600px;
+  width: 600px;
   text-align: center;
-  margin: 20px auto;
+  margin: 100px auto;
+}
+
+h1 {text-align: center;
+  color: blue;
 }
